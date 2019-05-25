@@ -1001,6 +1001,7 @@ p {
 
 .post-thumbnail {
   background: #fff;
+  box-shadow: 0 3px 16px rgba(0, 0, 0, 0.6);
 }
 .post-thumbnail .img-link {
   border-radius: 4px 4px 0 0;
